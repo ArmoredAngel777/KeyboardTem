@@ -1,0 +1,22 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ichter.android.keyboardtem">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_tem_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+
+        <!-- need to change the icon for Tem-->
+        
+        <service android:name="com.ichter.android.keyboardtem.SimpleIME"
+            android:label="@string/simple_ime"
+            android:permission="android.permission.BIND_INPUT_METHOD">
+            <intent-filter>
+                <action android:name="android.view.InputMethod" />
+            </intent-filter>
+            <meta-data android:name="android.view.im" android:resource="@xml/method" />
+        </service>
+    </application>
+
+</manifest>

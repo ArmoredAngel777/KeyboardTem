@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ichter.android.keyboardtem.MyKeyboardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/keyboard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:background="@color/colorTest1"
+    android:keyBackground="@color/colorTest2"
+    android:popupLayout="@layout/keyboard_popup_layout"
+    android:paddingTop="2dp"
+    android:paddingBottom="2dp">
+</com.ichter.android.keyboardtem.MyKeyboardView>
+
