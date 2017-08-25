@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\xml\\keyboard_popup_template.xml",
+        "source": "D:\\KeyboardTem\\app\\src\\main\\res\\xml\\keyboard_popup_template.xml"
+    },
+    {
+        "merged": "D:\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\xml\\method.xml",
+        "source": "D:\\KeyboardTem\\app\\src\\main\\res\\xml\\method.xml"
+    },
+    {
+        "merged": "D:\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\xml\\main_caps.xml",
+        "source": "D:\\KeyboardTem\\app\\src\\main\\res\\xml\\main_caps.xml"
+    },
+    {
+        "merged": "D:\\Android_Projects\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\xml\\keyboard_popup_template.xml",
+        "source": "D:\\Android_Projects\\KeyboardTem\\app\\src\\main\\res\\xml\\keyboard_popup_template.xml"
+    },
+    {
+        "merged": "D:\\Android_Projects\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\xml\\main_caps.xml",
+        "source": "D:\\Android_Projects\\KeyboardTem\\app\\src\\main\\res\\xml\\main_caps.xml"
+    },
+    {
+        "merged": "D:\\Android_Projects\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\xml\\method.xml",
+        "source": "D:\\Android_Projects\\KeyboardTem\\app\\src\\main\\res\\xml\\method.xml"
+    },
+    {
+        "merged": "D:\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\xml\\symbols.xml",
+        "source": "D:\\KeyboardTem\\app\\src\\main\\res\\xml\\symbols.xml"
+    },
+    {
+        "merged": "D:\\Android_Projects\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\xml\\numeric.xml",
+        "source": "D:\\Android_Projects\\KeyboardTem\\app\\src\\main\\res\\xml\\numeric.xml"
+    },
+    {
+        "merged": "D:\\Android_Projects\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\xml\\main.xml",
+        "source": "D:\\Android_Projects\\KeyboardTem\\app\\src\\main\\res\\xml\\main.xml"
+    },
+    {
+        "merged": "D:\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\xml\\main.xml",
+        "source": "D:\\KeyboardTem\\app\\src\\main\\res\\xml\\main.xml"
+    },
+    {
+        "merged": "D:\\Android_Projects\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\xml\\symbols.xml",
+        "source": "D:\\Android_Projects\\KeyboardTem\\app\\src\\main\\res\\xml\\symbols.xml"
+    },
+    {
+        "merged": "D:\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\xml\\numeric.xml",
+        "source": "D:\\KeyboardTem\\app\\src\\main\\res\\xml\\numeric.xml"
+    }
+]

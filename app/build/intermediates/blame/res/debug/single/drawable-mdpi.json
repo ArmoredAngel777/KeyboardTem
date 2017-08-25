@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\Android_Projects\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_keyboard_return_white_24dp.png",
+        "source": "D:\\Android_Projects\\KeyboardTem\\app\\src\\main\\res\\drawable-mdpi\\ic_keyboard_return_white_24dp.png"
+    },
+    {
+        "merged": "D:\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_clear_black_24dp.png",
+        "source": "D:\\KeyboardTem\\app\\src\\main\\res\\drawable-mdpi\\ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Android_Projects\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_keyboard_capslock_white_24dp.png",
+        "source": "D:\\Android_Projects\\KeyboardTem\\app\\src\\main\\res\\drawable-mdpi\\ic_keyboard_capslock_white_24dp.png"
+    },
+    {
+        "merged": "D:\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sym_keyboard_shift_white.png",
+        "source": "D:\\KeyboardTem\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_shift_white.png"
+    },
+    {
+        "merged": "D:\\Android_Projects\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sym_keyboard_shift_white.png",
+        "source": "D:\\Android_Projects\\KeyboardTem\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_shift_white.png"
+    },
+    {
+        "merged": "D:\\Android_Projects\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sym_keyboard_shift_on_white.png",
+        "source": "D:\\Android_Projects\\KeyboardTem\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_shift_on_white.png"
+    },
+    {
+        "merged": "D:\\Android_Projects\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_clear_white_24dp.png",
+        "source": "D:\\Android_Projects\\KeyboardTem\\app\\src\\main\\res\\drawable-mdpi\\ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Android_Projects\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_backspace_white_24dp.png",
+        "source": "D:\\Android_Projects\\KeyboardTem\\app\\src\\main\\res\\drawable-mdpi\\ic_backspace_white_24dp.png"
+    },
+    {
+        "merged": "D:\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_keyboard_return_white_24dp.png",
+        "source": "D:\\KeyboardTem\\app\\src\\main\\res\\drawable-mdpi\\ic_keyboard_return_white_24dp.png"
+    },
+    {
+        "merged": "D:\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_backspace_white_24dp.png",
+        "source": "D:\\KeyboardTem\\app\\src\\main\\res\\drawable-mdpi\\ic_backspace_white_24dp.png"
+    },
+    {
+        "merged": "D:\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_clear_white_24dp.png",
+        "source": "D:\\KeyboardTem\\app\\src\\main\\res\\drawable-mdpi\\ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Android_Projects\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_clear_black_24dp.png",
+        "source": "D:\\Android_Projects\\KeyboardTem\\app\\src\\main\\res\\drawable-mdpi\\ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "D:\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_keyboard_capslock_white_24dp.png",
+        "source": "D:\\KeyboardTem\\app\\src\\main\\res\\drawable-mdpi\\ic_keyboard_capslock_white_24dp.png"
+    },
+    {
+        "merged": "D:\\KeyboardTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sym_keyboard_shift_on_white.png",
+        "source": "D:\\KeyboardTem\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_shift_on_white.png"
+    }
+]

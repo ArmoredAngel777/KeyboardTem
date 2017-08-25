@@ -1,0 +1,4 @@
+#Sat Mar 18 16:22:30 CDT 2017
+base.0=D\:\\Android_Projects\\KeyboardTem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Android_Projects\\KeyboardTem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
